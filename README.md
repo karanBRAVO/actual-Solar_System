@@ -1,0 +1,12 @@
+# actual-Solar_System
+- This is OUR SOLAR SYSTEM VISUALIZER.
+- Sun Mercury Venus Earth Mars Jupiter-> included.
+- Saturn Uranus Neptune -> not included(but can be made).
+- Created using PYTHON and PYGAME.
+- Preview:
+- ![solarSystem](https://user-images.githubusercontent.com/77043443/193523237-ef8ba929-9cea-49cb-aa2f-1fa5a5b61264.png)
+- this can be used to demonstrate the solar system to school students.
+- I have shown the actual value of distances and values.
+- and you can easily see the difference in speed size of planets and distance b/w planets.
+- also it show the actual path of planets(before jupiter).
+- Try it Youself.
